@@ -1,17 +1,16 @@
 ## Table of contents
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [User Requirements](#user-requirements)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [Process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+  - [Code Showcase](#code-showcase)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
-### The challenge
+### User Requirements
 Users should be able to:
 
 - Add their email and submit the form
@@ -24,43 +23,41 @@ Users should be able to:
 
 ### Screenshot
 ![](./screenshot.jpg)
-![](./screenshot.jpg)
-![](./screenshot.jpg)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repo URL: [Github Repo](https://github.com/SteveNoyes/secundo_conatus)
+- Live Site URL: [Github Pages Live](https://stevenoyes.github.io/secundo_conatus/)
 
-## My process
+## Process
 
 ### Built with
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- HTML
+- CSS
 - Mobile-first workflow
+- JavaScript
 
-
-### What I learned
-To see how you can add code snippets, see below:
+### Code Showcase
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1>from the lorem</h1>
 ```
+
 ```css
-.proud-of-this-css {
+.placeholder {
   color: papayawhip;
 }
 ```
+
 ```js
-const proudOfThisFunc = () => {
+const isFunc = () => {
   console.log('lorem2023')
 }
 ```
-### Continued development
 
 ### Useful resources
-- [The Markdown Guide](https://www.markdownguide.org/) - Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, praesentium? Ipsam obcaecati culpa quo magnam recusandae alias distinctio animi iure rem voluptatem.
+
+- [Transfonter](https://transfonter.org/) - Modern and simple css @font-face generator
+- [The Markdown Guide](https://www.markdownguide.org/) - A simple and easy-to-use markup language you can use to format virtually any document.
 
 ## Author
 
